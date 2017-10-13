@@ -1,0 +1,15 @@
+{
+  "name": "rn-Intl",
+  "version": "v1.2.4",
+  "description": "RetailNext fork of Intl.js shim",
+  "main": "./rn-Intl.js",
+  "keywords": [
+    "Intl"
+  ],
+  "authors": [
+    "Andy Earnshaw"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/andyearnshaw/Intl.js",
+  "private": true
+}
